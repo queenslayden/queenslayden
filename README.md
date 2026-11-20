@@ -1,16 +1,13 @@
-## Hi there 👋
+### hey, i'm queenslayden 👋
 
-<!--
-**queenslayden/queenslayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 🌱 Learning FastAPI
+- 🧩 I like small tools that do one thing well
+- 📫 How to reach me: **@queenslayden** on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=queenslayden&hide_border=true&theme=react-dark" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=queenslayden&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="queenslayden GitHub stats" />
+
+<img src="https://img.shields.io/badge/React-2dd4bf?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/FastAPI-2dd4bf?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-2dd4bf?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-2dd4bf?style=for-the-badge&logoColor=white" alt="SQLite" />
